@@ -1,2 +1,2 @@
-# House-Price-Prediction
+# Post Graduation Admission Prediction
 Prediction using HistGBM and LightGBM
